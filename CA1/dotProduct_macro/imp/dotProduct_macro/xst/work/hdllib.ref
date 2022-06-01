@@ -1,0 +1,3 @@
+MO dotProduct_macro NULL ../../hdl/dotProduct_macro.v vlg0D/dot_product__macro.bin 1478341322
+MO multiplier_macro NULL ../../hdl/multiplier_macro.v vlg4C/multiplier__macro.bin 1478341322
+MO xilinx_macro_ram_sync NULL ../../hdl/xilinx_macro_ram_async.v vlg0C/xilinx__macro__ram__sync.bin 1478341322

@@ -1,0 +1,24 @@
+Running: d:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/top_isim_beh.exe -prj C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/top_beh.prj work.top work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/../../hdl/xilinx_macro_ram_async.v" into library work
+Analyzing Verilog file "C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/../../hdl/multiplier_macro.v" into library work
+Analyzing Verilog file "C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/../../hdl/test.v" into library work
+Analyzing Verilog file "C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/../../hdl/dotProduct_macro.v" into library work
+Analyzing Verilog file "C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/../../hdl/top.v" into library work
+Analyzing Verilog file "d:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module xilinx_macro_ram_sync
+Compiling module multiplier_macro
+Compiling module dotProduct_macro
+Compiling module test
+Compiling module top
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 6 Verilog Units
+Built simulation executable C:/Users/Ali/Desktop/Verill/dotProduct_macro/imp/dotProduct_macro/top_isim_beh.exe
+Fuse Memory Usage: 28668 KB
+Fuse CPU Usage: 374 ms

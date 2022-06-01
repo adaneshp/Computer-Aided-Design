@@ -1,0 +1,6 @@
+verilog work "../../hdl/xilinx_macro_ram_async.v"
+verilog work "../../hdl/multiplier_macro.v"
+verilog work "../../hdl/test.v"
+verilog work "../../hdl/dotProduct_macro.v"
+verilog work "../../hdl/top.v"
+verilog work "d:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
