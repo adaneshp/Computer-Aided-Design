@@ -3,7 +3,7 @@
 This repository contains the codes developed for Computer Aided Design Course. Still Updating...
 
 ## List of the projects
-- Computer Assignment 1: Hardware Resources
+- Computer Assignment 1: FPGA Hardware Resources
 - Computer Assignment 2:
 - Computer Assignment 3:
 - Computer Assignment 4: Neural Netowr -
