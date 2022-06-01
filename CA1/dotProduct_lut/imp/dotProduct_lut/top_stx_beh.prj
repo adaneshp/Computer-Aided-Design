@@ -1,0 +1,6 @@
+verilog isim_temp "../../hdl/xilinx_lut_ram_async.v"
+verilog isim_temp "../../hdl/multiplier_lut.v"
+verilog isim_temp "../../hdl/test.v"
+verilog isim_temp "../../hdl/dotProduct_lut.v"
+verilog isim_temp "../../hdl/top.v"
+verilog isim_temp "d:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
