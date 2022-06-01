@@ -1,5 +1,5 @@
 # FPGA Hardware Resources
-- This code was developed in October, 2015.
+- This code was developed in November, 2016.
 
 In this assignment, you are to design a dot-production module. The block diagram of the module is shown in Figure 1. The module is intended to calculate dot-product of two vectors of 8-bit data with a size of 8. The result is a 19-bit integer number which is the dot-product of the two vectors.
 
