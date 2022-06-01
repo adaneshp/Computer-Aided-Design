@@ -1,0 +1,3 @@
+verilog work "../../hdl/xilinx_lut_ram_async.v"
+verilog work "../../hdl/multiplier_lut.v"
+verilog work "../../hdl/dotProduct_lut.v"

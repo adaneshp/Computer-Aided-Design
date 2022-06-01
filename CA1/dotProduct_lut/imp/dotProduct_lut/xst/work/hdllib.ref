@@ -1,0 +1,4 @@
+MO xilinx_lut_ram_async NULL ../../hdl/xilinx_lut_ram_async.v vlg04/xilinx__lut__ram__async.bin 1478336318
+MO multiplier_lut NULL ../../hdl/multiplier_lut.v vlg77/multiplier__lut.bin 1478336318
+MO dotProduct_lut NULL ../../hdl/dotProduct_lut.v vlg60/dot_product__lut.bin 1478336318
+MO test NULL ../../hdl/test.v vlg34/test.bin 1478335685

@@ -1,0 +1,28 @@
+Command line:
+   dotProduct_lut_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  11576
+
+Sat Nov 05 16:02:07 2016
+
+
+ Elaboration Time: 1.01563 sec
+
+ Current Memory Usage: 1528.09 Meg
+
+ Total Signals          : 139
+ Total Nets             : 1639
+ Total Signal Drivers   : 101
+ Total Blocks           : 11
+ Total Primitive Blocks : 10
+ Total Processes        : 169
+ Total Traceable Variables  : 126
+ Total Scalar Nets and Variables : 3588
+
+ Total Simulation Time: 1.07813 sec
+
+ Current Memory Usage: 1528.09 Meg
+
+Sat Nov 05 16:02:15 2016
+

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Ali/Desktop/Verill/dotProduct_lut/imp/dotProduct_lut/top.xst" -ofn "C:/Users/Ali/Desktop/Verill/dotProduct_lut/imp/dotProduct_lut/top.syr" 

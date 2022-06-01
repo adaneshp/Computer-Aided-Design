@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Ali/Desktop/Verill/dotProduct_lut/imp/dotProduct_lut/top_isim_beh.exe" -prj "C:/Users/Ali/Desktop/Verill/dotProduct_lut/imp/dotProduct_lut/top_beh.prj" "work.top" "work.glbl" 
